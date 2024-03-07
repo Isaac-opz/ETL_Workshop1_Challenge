@@ -13,7 +13,7 @@ The main challenge was to migrate these data to a relational database and then c
 - Hires by seniority level, and
 - Hires by country over the years, focusing on the USA, Brazil, Colombia, and Ecuador.
 
-For this workshop, I used `Python` and `Jupyter Notebook`, choosing to store the **hired candidates** an appropriate database to manage the information.
+For this workshop, I used `Python` and `Jupyter Notebook`, choosing to store the **hired candidates** in an appropriate cloud hosted `PSQL` database to manage the information.
 
 To consider a candidate "hired" they had to have scores greater than or equal to **7** in **both** the code challenge and the technical interview.
 
