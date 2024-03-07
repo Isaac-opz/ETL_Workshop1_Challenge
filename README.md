@@ -2,7 +2,7 @@
 
 A personal journey in Python Data Engineering. This repo documents my process of ETL, data analysis, and visualization with Python and databases, transforming candidate data into meaningful insights.
 
-## Workshop Context
+## Context
 
 This repository contains my solution to the **ETL Workshop**, designed to simulate a real job interview scenario, providing **practical** experience in data management and visualization. Through this project, I had the opportunity to work with randomly generated candidate data, initially stored in a [CSV file](/raw_data/candidates.csv).
 
